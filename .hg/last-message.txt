@@ -1,0 +1,1 @@
+Edits for WordPress.org SVN submittion to http://wordpress.org/extend/plugins/key-combo-login-ctrl-login/
