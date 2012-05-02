@@ -6,11 +6,11 @@ Requires at least: 3.3
 Tested up to: 3.3.2
 Stable tag: 0.1
 
-Are you lazy like me and hate it when you reach a page and you aren't logged in!? This WordPress plugin allows you to reach the login page by simply pressing Ctrl + L.
+This WordPress plugin allows you to reach the login page by simply pressing Ctrl + L.
 
 == Description ==
 
-Are you lazy like me and hate it when you reach a page and you aren't logged in!? This WordPress plugin allows you to reach the login page by simply pressing Ctrl + L.
+This WordPress plugin allows you to reach the login page by simply pressing Ctrl + L.
 
 From: aubreypwd / http://aubreypwd.com (formerly known as enethrie).
 
